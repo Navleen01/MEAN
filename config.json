@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb+srv://navleen:@Toronto2Australia@navleen.vbivyj3.mongodb.net/app?retryWrites=true&w=majority",
+    "apiUrl": "http://localhost:3000/api",
+    "secret": "@Toronto2Australia"
+}
